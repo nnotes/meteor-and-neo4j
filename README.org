@@ -16,9 +16,9 @@
 
    - Project style guide: [[https://github.com/nomosyn/resources][Coding style]]
 
-   - short name: db
+   - short name: mAndNeo4j
 
-   - abbreviation: db
+   - abbreviation: mAndNeo4j
 
    - Licensed under: [[https://www.mozilla.org/MPL/2.0/][MPLv2]]
 
